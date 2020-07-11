@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "1012009306466",
+    "firebase_url": "https://smart-dining-system.firebaseio.com",
+    "project_id": "smart-dining-system",
+    "storage_bucket": "smart-dining-system.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012009306466:android:f63ad9bcdfc185a0c4c43b",
+        "android_client_info": {
+          "package_name": "com.example.manager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1012009306466-54vnna2hb80eeqdmg0akse69vep8n88r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHyTwuhASpPyALfIkS6K0g-IAhmPJT57A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1012009306466-54vnna2hb80eeqdmg0akse69vep8n88r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012009306466:android:f6d332fdcffae650c4c43b",
+        "android_client_info": {
+          "package_name": "com.example.shiva.try1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1012009306466-54vnna2hb80eeqdmg0akse69vep8n88r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHyTwuhASpPyALfIkS6K0g-IAhmPJT57A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1012009306466-54vnna2hb80eeqdmg0akse69vep8n88r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012009306466:android:5e393beb62c15318c4c43b",
+        "android_client_info": {
+          "package_name": "com.lakj.comspace.simpletextclient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1012009306466-54vnna2hb80eeqdmg0akse69vep8n88r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHyTwuhASpPyALfIkS6K0g-IAhmPJT57A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1012009306466-54vnna2hb80eeqdmg0akse69vep8n88r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
